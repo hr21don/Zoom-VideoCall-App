@@ -1,6 +1,27 @@
 # React VideoCall App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+Create Zoom Video Call Clone With WebRTC and Socket.IO.
+
+## Technologies 
+
+```
+Server-Side Packageas:
+ Express: Our NodeJS framework
+ NodeJS: Used to create the server
+ Socket.io: Used for real-time communication
+
+Client-Side Packages:
+ ReactJS: Our Js Library to create UI components.
+ Socket.io-client: Used for real-time communication (client side)
+ Web RTC: Used for videochat and audio call possibilities through simple-peer
+ 
+ *********************
+ Author: Helitha Rupasinghe
+ Licence: MIT
+ Credit: Nik Valdez (Full Stack JS) 
+ *********************
+```
 
 ## How To Run
 
