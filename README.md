@@ -15,7 +15,7 @@ User One: Open on https://preeminent-lebkuchen-30de3f.netlify.app/ to view it in
 
 User Two : Open as a incognito tab to view it in a seperate browser. 
 
-- Copy the ID from Adam and Paste into the field below.
+- Copy the ID from UserOne and Paste into the field below.
 
 ```
 V0EpVKR5pM-yltOvAABt
@@ -25,11 +25,12 @@ V0EpVKR5pM-yltOvAABt
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214376-3b892ce3-8cb3-4767-a6d1-24d85e4c1b60.PNG">
 
 
-Call UserOne as follows 
+Call UserOne to begin video call session. 
 
 
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214642-552b1db2-3636-44e3-83af-29500a063d3b.PNG">
 
+End Call With UserOne to terminate session.
 
 <img width="863" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164215436-e242753b-7bf9-439b-bdb4-e8ea44329d3e.PNG">
 
