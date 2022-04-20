@@ -36,7 +36,7 @@ User One: Open on https://preeminent-lebkuchen-30de3f.netlify.app/ to view it in
 
 User Two : Open as a incognito tab to view it in a seperate browser. 
 
-- Copy the ID from UserOne and Paste into the field below.
+- Copy the ID from UserOne and Paste into the ID field below.
 
 ```
 V0EpVKR5pM-yltOvAABt
