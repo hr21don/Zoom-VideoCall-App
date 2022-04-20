@@ -29,7 +29,7 @@ In this use case, we will run the app between two users Adam and Sam.
 
 User One: Open on https://preeminent-lebkuchen-30de3f.netlify.app/ to view it in the browser.
 
-- Enter your Name into the Enter_Your_Name Field below.
+- Enter your Name into the Name Field below.
 
 <img width="814" alt="Zoom" src="https://user-images.githubusercontent.com/91548582/164212820-11c2abe7-27e8-4fb8-ba3b-097011687cf4.PNG">
 
