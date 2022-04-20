@@ -10,7 +10,7 @@ import io from "socket.io-client"
 import "./App.css"
 
 
-const socket = io.connect('https://tranquil-anchorage-48415.herokuapp.com/')
+const socket = io.connect('http://localhost:YOUR_API_PORT_GOES_HERE')
 function App() {
 	const [ me, setMe ] = useState("")
 	const [ stream, setStream ] = useState()
