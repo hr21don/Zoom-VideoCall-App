@@ -27,14 +27,14 @@ Client-Side Packages:
 
 In this use case, we will run the app between two users Adam and Sam. 
 
-User One: Open on https://preeminent-lebkuchen-30de3f.netlify.app/ to view it in the browser.
+User One: Open on https://preeminent-lebkuchen-30de3f.netlify.app/ and view within the browser.
 
 - Enter your Name into the Name Field below.
 
 <img width="814" alt="Zoom" src="https://user-images.githubusercontent.com/91548582/164212820-11c2abe7-27e8-4fb8-ba3b-097011687cf4.PNG">
 
 
-User Two : Open as a incognito tab to view it in a seperate browser. 
+User Two : Open https://preeminent-lebkuchen-30de3f.netlify.app/  within a incognito tab or in a seperate browser. 
 
 - Copy the ID from UserOne and Paste into the ID field below.
 
