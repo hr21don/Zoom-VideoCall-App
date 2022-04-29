@@ -33,11 +33,9 @@ User One: Open on https://preeminent-lebkuchen-30de3f.netlify.app/ and view with
 
 <img width="814" alt="Zoom" src="https://user-images.githubusercontent.com/91548582/164212820-11c2abe7-27e8-4fb8-ba3b-097011687cf4.PNG">
 
-(UserOne.Png.2022)
-
 User Two : Open on https://preeminent-lebkuchen-30de3f.netlify.app/  within a incognito tab or in a seperate browser. 
 
-- Copy the ID from UserOne and Paste into the ID field below.
+- Copy the ID from UserOne and Paste into UserTwo's ID field below.
 
 ```
 V0EpVKR5pM-yltOvAABt
@@ -47,7 +45,7 @@ V0EpVKR5pM-yltOvAABt
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214376-3b892ce3-8cb3-4767-a6d1-24d85e4c1b60.PNG">
 
 
-Call UserOne to begin video call session. 
+Call UserOne from UserTwo's browser to begin video call session. 
 
 
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214642-552b1db2-3636-44e3-83af-29500a063d3b.PNG">
