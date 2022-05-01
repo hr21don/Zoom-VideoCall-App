@@ -44,12 +44,12 @@ V0EpVKR5pM-yltOvAABt
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214376-3b892ce3-8cb3-4767-a6d1-24d85e4c1b60.PNG">
 
 
-Test Case: Sam calls Adam from his browser to begin video call session. [S]
+Sam calls Adam from his browser to begin video call session. [S]
 
 
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214642-552b1db2-3636-44e3-83af-29500a063d3b.PNG">
 
-Test Case: Both Users connect and successfuly peer-to-peer conenction is created.
+Both users connect and successfuly peer-to-peer conenction is created.
 
 <img width="863" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164215436-e242753b-7bf9-439b-bdb4-e8ea44329d3e.PNG">
 
