@@ -23,17 +23,17 @@ Client-Side Packages:
  *********************
 ```
 
-## Demo
+## Demo 
 
-In this use case, we will run the app between two users Adam and Sam. 
+We will run the app between two users Adam and Sam.
 
-Adam: Open's the app within their local browser.
+Adam: Open's the app within their local browser. [S]
 
 - Enter your Name into the Name Field below.
 
 <img width="814" alt="Zoom" src="https://user-images.githubusercontent.com/91548582/164212820-11c2abe7-27e8-4fb8-ba3b-097011687cf4.PNG">
 
-Sam : Open's the app within a incognito tab or in a seperate browser. 
+Sam : Open's the app within a incognito tab or in a seperate browser. [S]
 
 - Copy the ID from Adam and Paste  it's content into 'ID to call' field below.
 
@@ -45,7 +45,7 @@ V0EpVKR5pM-yltOvAABt
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214376-3b892ce3-8cb3-4767-a6d1-24d85e4c1b60.PNG">
 
 
-Sam calls Adam from his browser to begin video call session. [Success] 
+Test Case: Sam calls Adam from his browser to begin video call session. [S]
 
 
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214642-552b1db2-3636-44e3-83af-29500a063d3b.PNG">
