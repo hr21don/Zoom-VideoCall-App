@@ -27,14 +27,13 @@ Client-Side Packages:
 
 We will run the app between two users Adam and Sam.
 
-Adam: Open's the app within their local browser. [S]
-
-- Enter your Name into the Name Field below.
+Adam: Open's the app within their local browser and enter's their name into the Name field below.[S]
 
 <img width="814" alt="Zoom" src="https://user-images.githubusercontent.com/91548582/164212820-11c2abe7-27e8-4fb8-ba3b-097011687cf4.PNG">
 
 Sam : Open's the app within a incognito tab or in a seperate browser. [S]
 
+- Enter's their name into the Name field below. 
 - Copy the ID from Adam and Paste  it's content into 'ID to call' field below.
 
 ```
