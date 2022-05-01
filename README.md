@@ -23,7 +23,7 @@ Client-Side Packages:
  *********************
 ```
 
-## Usage
+## Demo
 
 In this use case, we will run the app between two users Adam and Sam. 
 
@@ -53,6 +53,7 @@ Call UserOne from UserTwo's browser to begin video call session.
 End Call With UserOne to terminate session.
 
 <img width="863" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164215436-e242753b-7bf9-439b-bdb4-e8ea44329d3e.PNG">
+
 
 
 
