@@ -23,7 +23,7 @@ Client-Side Packages:
  *********************
 ```
 
-## How To Run
+## Usage
 
 In this use case, we will run the app between two users Adam and Sam. 
 
