@@ -60,7 +60,7 @@ Sam calls Adam from his browser to begin video call session. [S]
 
 <img width="859" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164214642-552b1db2-3636-44e3-83af-29500a063d3b.PNG">
 
-Both users connect and peer-to-peer conenction is configured between the two browsers.
+Both users connect and peer-to-peer conenction is configured successfully between the two browsers.
 
 <img width="863" alt="Capture" src="https://user-images.githubusercontent.com/91548582/164215436-e242753b-7bf9-439b-bdb4-e8ea44329d3e.PNG">
 
