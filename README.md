@@ -1,4 +1,4 @@
-# React VideoCall App
+# VideoCall App
 
 ## Overview
 Create Zoom Video Call Clone With WebRTC and Socket.IO.
