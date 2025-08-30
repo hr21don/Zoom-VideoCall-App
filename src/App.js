@@ -10,7 +10,7 @@ import io from "socket.io-client"
 import "./App.css"
 
 
-const socket = io.connect('http://localhost:YOUR_API_PORT_GOES_HERE')
+const socket = io.connect('http://localhost:5000')
 function App() {
 	const [ me, setMe ] = useState("")
 	const [ stream, setStream ] = useState()
@@ -24,7 +24,7 @@ function App() {
 	const myVideo = useRef()
 	const userVideo = useRef()
 	const connectionRef= useRef()
-
+	const [isBlurred, setIsBlurred] = useState(false);
 	useEffect(() => {
 		navigator.mediaDevices.getUserMedia({ video: true, audio: true }).then((stream) => {
 			setStream(stream)
@@ -95,11 +95,14 @@ function App() {
 
 	return (
 		<>
-			<h1 style={{ textAlign: "center", color: '#2e8dff' }}>Zoomex</h1>
+		<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+  		<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#2e8dff" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="hero-img"><path d="m16 13 5.223 3.482a.5.5 0 0 0 .777-.416V7.87a.5.5 0 0 0-.752-.432L16 10.5"></path><rect x="2" y="6" width="14" height="12" rx="2" ></rect></svg>
+		<h1 style={{ textAlign: "center", color: '#2e8dff' }}>ConnectNow</h1>
+		</div>
 		<div className="container">
 			<div className="video-container">
 				<div className="video">
-					{stream &&  <video playsInline muted ref={myVideo} autoPlay style={{ width: "300px" }} />}
+					{stream &&  <video playsInline muted ref={myVideo} autoPlay style={{ width: "300px",  filter: isBlurred ? "blur(8px)" : "none" }} />}
 				</div>
 				<div className="video">
 					{callAccepted && !callEnded ?
@@ -138,8 +141,10 @@ function App() {
 							<PhoneIcon fontSize="large" />
 						</IconButton>
 					)}
-					{idToCall}
 				</div>
+				<Button color="primary" onClick={() => setIsBlurred(!isBlurred)}>
+				{isBlurred ? "Unblur" : "Blur"}
+				</Button>
 			</div>
 			<div>
 				{receivingCall && !callAccepted ? (
